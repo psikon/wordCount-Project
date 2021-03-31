@@ -1,0 +1,9 @@
+.wordCountMap {
+    display: inline-block;
+    font-size: x-small;
+    width:100px;
+    border: 1px solid lightslategray;
+    background-color: lightcoral;
+    border-radius: 5px;
+    margin:2px
+}

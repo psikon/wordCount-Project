@@ -1,0 +1,42 @@
+.container {
+    border: 1px solid lightgray;
+    width: 300px;
+    height: 150px;
+    border-radius: 25px;
+    margin: 5px;
+}
+
+button {
+    width: 75px;
+    height:25px;
+    margin: 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+button:hover {
+    color:white;
+    background-color: deepskyblue;
+}
+
+.start_button {
+    background-color: lightgreen;
+}
+
+.stop_button {
+    background-color: lightcoral;
+    width: 75px;
+    height:25px;
+    margin: 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.result_button {
+    background-color: lightblue;
+    width: 75px;
+    height:25px;
+    margin: 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
